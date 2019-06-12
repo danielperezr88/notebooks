@@ -1,0 +1,4 @@
+field,Channel,Region,Fresh,Milk,Grocery,Frozen,Detergents_Paper,Delicatessen
+minimum,1,1,0,0,0,0,0,0
+maximum,2,3,120000,75000,100000,65000,45000,50000
+step,1,1,500,500,500,500,500,500
